@@ -1,0 +1,30 @@
+{	"SampleFileName": "mushrooms_08012020_120000.csv",
+	"LengthOfDateStampInFile": 8,
+	"LengthOfTimeStampInFile": 6,
+	"NumberofColumns" : 23,
+	"ColName": {
+				"cap-shape": "OBJECT" ,
+				"cap-surface": "OBJECT" ,
+				"cap-color": "OBJECT" ,
+				"bruises": "OBJECT" ,
+				"odor": "OBJECT" ,
+				"gill-attachment": "OBJECT" ,
+				"gill-spacing": "OBJECT" ,
+				"gill-size": "OBJECT" ,
+				"gill-color": "OBJECT" ,
+				"stalk-shape": "OBJECT" ,
+				"stalk-root": "OBJECT" ,
+				"stalk-surface-above-ring": "OBJECT" ,
+				"stalk-surface-below-ring": "OBJECT" ,
+				"stalk-color-above-ring": "OBJECT" ,
+				"stalk-color-below-ring": "OBJECT" ,
+				"veil-type": "OBJECT" ,
+				"veil-color": "OBJECT" ,
+				"ring-number": "OBJECT" ,
+				"ring-type": "OBJECT" ,
+				"spore-print-color": "OBJECT" ,
+				"population": "OBJECT" ,
+				"habitat": "OBJECT" 
+
+	}
+}
